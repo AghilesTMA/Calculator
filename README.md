@@ -1,2 +1,2 @@
 # Calculator
-A calculator using HTML CSS and JavaScript (Frontend mentor challenge)
+A calculator using HTML CSS and JavaScript (Frontend mentor challenge).
